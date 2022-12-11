@@ -3,6 +3,7 @@
 <p style="font-size:30px;color:blue">PuqiWebServer</p>
 <img src="https://img.shields.io/badge/-WebServer-ff69b4">
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=important&style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/static/v1?label=&message=PuqiWebServer&color=9cf&?style=flat-square&logo=appveyor">
 PuqiWebServer-基于Python的Web服务器
 Usage：Python 3.* Lib:socket,os,sys,threading
 
